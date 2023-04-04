@@ -16,7 +16,7 @@ body{
   background: url('img/22.jpg')  no-repeat ;
   
   background-size: 100vw auto;
-    overflow: hidden;
+    overflow-x: hidden;
     position: fixed;
 }
 #joke{
